@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="roll">Roll</string>
+    <string name="number">!!</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+</resources>
